@@ -1,1 +1,1 @@
-### Hi there, my name is Dmitry Zhigalo! Welcome to my profile!
+### Hi there, my name is Dmitry! Welcome to my profile!
