@@ -5,8 +5,14 @@
 <br />
 
 ### Languages and Tools:
+
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmt-zh&layout=compact)
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmt-zh&hide=stars,contribs&show_icons=true)
