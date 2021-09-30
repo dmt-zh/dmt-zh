@@ -1,23 +1,19 @@
 ## Hi, my name is Dmitry! Welcome to my profile!
-#### Connect with me:
+
+### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-dmt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-zhigalo-a698b016b/)](https://www.linkedin.com/in/dmitry-zhigalo-a698b016b/)
 [![Gmail Badge](https://img.shields.io/badge/-zhdmts-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhdmts@gmail.com)](mailto:zhdmts@gmail.com)
 
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://img.shields.io/badge/-dmt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-zhigalo-a698b016b/)
-
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-E4405F.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://img.shields.io/badge/-zhdmts-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhdmts@gmail.com)
-
 ---
 
-### 💻 Tech Stack:
+## Tech Stack:
 
 <img alt="Python" src="https://img.shields.io/badge/python-000.svg?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-E10098.svg?&style=for-the-badge&logo=mysqll&logoColor=fff" />&nbsp;
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-26A944.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=fff" />&nbsp;
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 
-### 🛠 Tools:
+##  Tools:
 
 <img alt="Jupiter Notebook" src="https://img.shields.io/badge/juptiter-notebook-61DAFB.svg?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
@@ -27,7 +23,7 @@
 
 ---
 
-### ⚙️ GitHub Analytics
+##  GitHub Analytics
 
 <table>
   <tr>
