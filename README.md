@@ -3,6 +3,7 @@
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-dmt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-zhigalo-a698b016b/)](https://www.linkedin.com/in/dmitry-zhigalo-a698b016b/)
 [![Gmail Badge](https://img.shields.io/badge/-zhdmts-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhdmts@gmail.com)](mailto:zhdmts@gmail.com)
+![](https://visitor-badge.glitch.me/badge?page_id=dmt-zh.dmt-zh)
 
 ---
 
@@ -20,3 +21,11 @@
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="pycharm" src="https://img.shields.io/badge/pycharm-5920B1.svg?&style=for-the-badge&logo=pycharm&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+-------
