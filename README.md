@@ -1,31 +1,30 @@
-## Hi, my name is Dmitry! Welcome to my profile!
+<h1 align="center">Hi there, I'm Dmitry Zhigalo</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-### Connect with me:
+<br />
+
+Welcome to my profile! I'm a data scientist and python developer. Thanks for visiting and I'd love to connect!
+
 [![Linkedin Badge](https://img.shields.io/badge/-dmt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-zhigalo-a698b016b/)](https://www.linkedin.com/in/dmitry-zhigalo-a698b016b/)
 [![Gmail Badge](https://img.shields.io/badge/-zhdmts-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhdmts@gmail.com)](mailto:zhdmts@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=dmt-zh.dmt-zh)
 
----
 
-## Tech Stack:
+<img align="right" src="https://media1.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently a freelancer
+<li>🧐 Learning <strong>Python</strong>, <strong>Data Science</strong>, <strong>Databases</strong> and <strong>Algorithms</strong>
+<li>👨‍💻 Most of my coding is available on Github
+<li>📙  Fun Fact: I can squat 5 reps wiht 130kg (my own weight is 82 kg) </li>
+</ul>
 
-<img alt="Python" src="https://img.shields.io/badge/python-000.svg?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-E10098.svg?&style=for-the-badge&logo=mysqll&logoColor=fff" />&nbsp;
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-26A944.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=fff" />&nbsp;
-<img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<br />
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" alt="pycharm" width="40" height="40"/>&nbsp;
 
-##  Tools:
-
-<img alt="Jupiter Notebook" src="https://img.shields.io/badge/juptiter-notebook-61DAFB.svg?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;
-<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
-<img alt="pycharm" src="https://img.shields.io/badge/pycharm-5920B1.svg?&style=for-the-badge&logo=pycharm&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-
--------
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
--------
