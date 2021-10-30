@@ -4,7 +4,7 @@
 
 Welcome to my profile! I'm a data scientist and python developer. I'm a passionate learner who's always willing to learn and work across technologies and domains. Thanks for visiting and I'd love to connect!
 
-[![Linkedin Badge](https://img.shields.io/badge/-dmt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-zhigalo-a698b016b/)](https://www.linkedin.com/in/dmitry-zhigalo-a698b016b/)
+[![Linkedin Badge](https://img.shields.io/badge/-dmt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmt-zh/)](https://www.linkedin.com/in/dmt-zh/)
 [![Gmail Badge](https://img.shields.io/badge/-zhdmts-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhdmts@gmail.com)](mailto:zhdmts@gmail.com)
 
 
