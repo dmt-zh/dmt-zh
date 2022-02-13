@@ -12,7 +12,7 @@ Welcome to my profile! I'm a data scientist and python developer. I'm a passiona
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li> I’m currently opened to new opportunities
-<li> Learning <strong>Python</strong>, <strong>Data Science</strong>, <strong>Databases</strong> and <strong>Algorithms</strong>
+<li> Learning <strong>Python</strong>, <strong>Data analysis</strong> and <strong>Machine learning</strong>
 <li> Most of my coding is available on Github
 <li> Fun Fact: I can squat 5 reps wiht 130kg </li>
 </ul>
