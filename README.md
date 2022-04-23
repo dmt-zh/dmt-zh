@@ -2,7 +2,7 @@
 
 <br />
 
-Welcome to my profile! I'm a data scientist and python developer. I'm a passionate learner who's always willing to learn and work across technologies and domains. Thanks for visiting and I'd love to connect!
+Welcome to my profile! I'm a passionate learner who's always willing to learn and work across technologies and domains. Thanks for visiting and I'd love to connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/-dmt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmt-zh/)](https://www.linkedin.com/in/dmt-zh/)
 [![Gmail Badge](https://img.shields.io/badge/-zhdmts-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhdmts@gmail.com)](mailto:zhdmts@gmail.com)
@@ -12,7 +12,7 @@ Welcome to my profile! I'm a data scientist and python developer. I'm a passiona
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li> I’m currently opened to new opportunities
-<li> Learning <strong>Python</strong>, <strong>Data analysis</strong> and <strong>Machine learning</strong>
+<li> Learning <strong>Python</strong> and <strong>Data analysis</strong>
 <li> Most of my coding is available on Github
 <li> Fun Fact: I can squat 5 reps wiht 130kg </li>
 </ul>
