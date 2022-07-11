@@ -11,10 +11,10 @@ Welcome to my profile! I'm a passionate learner who's always willing to learn an
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif" width="450" height="250"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li> I’m currently opened to new opportunities
-<li> Learning <strong>Python</strong> and <strong>Data analysis</strong>
-<li> Most of my coding is available on Github
-<li> Fun Fact: I can squat 5 reps wiht 130kg </li>
+<li> I’m interested in Data Science
+<li> Learning Python, Maths, Stats, ML
+<li> I'm fond of sports
+<li> Fun Fact: I can squat 5 reps wiht 120kg </li>
 </ul>
 
 <br />
