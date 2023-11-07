@@ -31,10 +31,3 @@ Welcome to my profile! I'm a passionate learner who's always willing to learn an
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" alt="pycharm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/>&nbsp; 
-<h2> </h2>
-  
-
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=dmt-zh.dmt-zh&left_color=black&right_color=blue" alt="visitors"></p>
-
-
-
